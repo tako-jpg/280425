@@ -76,7 +76,7 @@ public class Main {
         } else if (two > one && two > three) {
             System.out.println("Число two больше остальных");
         } else {
-            System.out.println("Число three больше остальных_");
+            System.out.println("Число three больше остальных");
         }
     }
     }
